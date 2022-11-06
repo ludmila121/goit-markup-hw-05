@@ -44,9 +44,7 @@ img {
   height: auto;
 }
 
- address, 
- .footer-address  {
-  font-style: normal;
+ address{
   padding-right: 0;
 }
 
@@ -483,6 +481,9 @@ padding:60px 0;
 }
 
 
+
+
+/* Footer*/
 address{
   font-style: normal;
   margin-top: 20px;
